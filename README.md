@@ -18,7 +18,7 @@ witch the full video
 1. video link  https://drive.google.com/file/d/11g07o4PvQHHrKHiSU6Xtts6Jo3wpaVmI/view?usp=sharing
 2. Video link  https://drive.google.com/file/d/1Y7qp-gh8QX-D_JC1oaPKs9_3BJeymbEB/view?usp=sharing
 
-# How do you run my project in your pc.
+# How do you run this project in your pc following the steps.
 1. First download the zip file .
 2. Go to your python folder and open window power shell creat a virtual enviroment folder in a python following this command (python -m venv AzureVision) and activate the enviroment following this command (scripts/activate).you know your enviroment is activate when you see the enviroment name is the beginning.
 3. Insatll following  libraries in the enviroment folder.
