@@ -27,5 +27,5 @@ witch the full video
    pip install pandas
 4. Extract the zip file . And remove all the files in your environment folder  and add the zip file material(extract file) in your environment folder.
 5. Go to your window power shell run the project. you write follwing command
-   python Facial.py   
+  ( python Facial.py )  
    and you see the output.
